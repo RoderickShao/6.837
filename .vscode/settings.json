@@ -1,0 +1,28 @@
+{
+    "files.associations": {
+        "glCanvas.C": "cpp",
+        "light.C": "cpp",
+        "scene_parser.C": "cpp",
+        "boundingbox.C": "cpp",
+        "raytracing_stats.C": "cpp",
+        "rayTree.C": "cpp"
+    },
+    "cmake.sourceDirectory": "C:/Users/user020/Desktop/Code/6.837/Assignment 6",
+    "cmake.debugConfig": {
+        "args": [
+            "-input", "C:/Users/user020/Desktop/Code/6.837/Assignment 6/data/scene6_14_glass_sphere.txt",
+            "-size", "200", "200",
+            "-output", "output6_14.tga",
+            "-gui",
+            "-grid", "20", "20", "20",
+            //"-visualize_grid",
+            //"-stats",
+            //"-tessellation", "50","25",
+            "-gouraud",
+            "-shadows",
+            "-bounces", "5",
+            "-weight", "0.01",
+            "-shade_back",
+        ]
+    },
+}

@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "matrix.C": "cpp",
+        "particle.C": "cpp",
+        "system.C": "cpp",
+        "parser.C": "cpp",
+        "glCanvas.C": "cpp",
+        "main.C": "cpp",
+        "integrator.C": "cpp",
+        "generator.C": "cpp",
+        "forcefield.C": "cpp",
+        "new": "cpp",
+        "cmath": "cpp"
+    },
+    "cmake.debugConfig": {
+        "args": [
+            "-input", "C:/Users/user020/Desktop/Code/6.837/Assignment 9/data/system9_01_hose.txt",
+            "-refresh", "0.1",
+            "-dt","0.1",
+            //"-draw_vectors","0.02",
+           // "-integrator_color",
+           "-motion_blur",
+
+        ]
+    },
+}

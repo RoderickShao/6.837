@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "matrix.C": "cpp",
+        "glCanvas.C": "cpp",
+        "spline_parser.C": "cpp",
+        "triangle_mesh.C": "cpp",
+        "main.C": "cpp",
+        "spline.C": "cpp",
+        "curve.C": "cpp",
+        "surface.C": "cpp"
+    },
+    "cmake.debugConfig": {
+        "args": [
+            "-input", "C:/Users/user020/Desktop/Code/6.837/Assignment 8/data/spline8_09_teapot.txt",
+            //"-output_bspline","output8_07_edit.txt",
+            "-curve_tessellation", "4",
+            "-revolution_tessellation", "10",
+            //"-output", "vase_high.obj"
+            //"-gui",
+            //"-curve_tessellation", "30",
+            "-patch_tessellation", "4",
+            "-output", "teapot_low.obj"
+        ]
+    },
+}

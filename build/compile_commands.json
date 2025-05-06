@@ -1,0 +1,128 @@
+[
+{
+  "directory": "C:/Users/user020/Desktop/Code/6.837/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DNOMINMAX -D_USE_MATH_DEFINES @CMakeFiles/Assignment6.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Assignment6.dir\\boundingbox.C.obj -c \"C:\\Users\\user020\\Desktop\\Code\\6.837\\Assignment 6\\boundingbox.C\"",
+  "file": "C:/Users/user020/Desktop/Code/6.837/Assignment 6/boundingbox.C",
+  "output": "CMakeFiles/Assignment6.dir/boundingbox.C.obj"
+},
+{
+  "directory": "C:/Users/user020/Desktop/Code/6.837/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DNOMINMAX -D_USE_MATH_DEFINES @CMakeFiles/Assignment6.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Assignment6.dir\\camera.cpp.obj -c \"C:\\Users\\user020\\Desktop\\Code\\6.837\\Assignment 6\\camera.cpp\"",
+  "file": "C:/Users/user020/Desktop/Code/6.837/Assignment 6/camera.cpp",
+  "output": "CMakeFiles/Assignment6.dir/camera.cpp.obj"
+},
+{
+  "directory": "C:/Users/user020/Desktop/Code/6.837/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DNOMINMAX -D_USE_MATH_DEFINES @CMakeFiles/Assignment6.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Assignment6.dir\\glCanvas.C.obj -c \"C:\\Users\\user020\\Desktop\\Code\\6.837\\Assignment 6\\glCanvas.C\"",
+  "file": "C:/Users/user020/Desktop/Code/6.837/Assignment 6/glCanvas.C",
+  "output": "CMakeFiles/Assignment6.dir/glCanvas.C.obj"
+},
+{
+  "directory": "C:/Users/user020/Desktop/Code/6.837/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DNOMINMAX -D_USE_MATH_DEFINES @CMakeFiles/Assignment6.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Assignment6.dir\\global.cpp.obj -c \"C:\\Users\\user020\\Desktop\\Code\\6.837\\Assignment 6\\global.cpp\"",
+  "file": "C:/Users/user020/Desktop/Code/6.837/Assignment 6/global.cpp",
+  "output": "CMakeFiles/Assignment6.dir/global.cpp.obj"
+},
+{
+  "directory": "C:/Users/user020/Desktop/Code/6.837/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DNOMINMAX -D_USE_MATH_DEFINES @CMakeFiles/Assignment6.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Assignment6.dir\\grid.cpp.obj -c \"C:\\Users\\user020\\Desktop\\Code\\6.837\\Assignment 6\\grid.cpp\"",
+  "file": "C:/Users/user020/Desktop/Code/6.837/Assignment 6/grid.cpp",
+  "output": "CMakeFiles/Assignment6.dir/grid.cpp.obj"
+},
+{
+  "directory": "C:/Users/user020/Desktop/Code/6.837/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DNOMINMAX -D_USE_MATH_DEFINES @CMakeFiles/Assignment6.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Assignment6.dir\\group.cpp.obj -c \"C:\\Users\\user020\\Desktop\\Code\\6.837\\Assignment 6\\group.cpp\"",
+  "file": "C:/Users/user020/Desktop/Code/6.837/Assignment 6/group.cpp",
+  "output": "CMakeFiles/Assignment6.dir/group.cpp.obj"
+},
+{
+  "directory": "C:/Users/user020/Desktop/Code/6.837/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DNOMINMAX -D_USE_MATH_DEFINES @CMakeFiles/Assignment6.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Assignment6.dir\\image.cpp.obj -c \"C:\\Users\\user020\\Desktop\\Code\\6.837\\Assignment 6\\image.cpp\"",
+  "file": "C:/Users/user020/Desktop/Code/6.837/Assignment 6/image.cpp",
+  "output": "CMakeFiles/Assignment6.dir/image.cpp.obj"
+},
+{
+  "directory": "C:/Users/user020/Desktop/Code/6.837/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DNOMINMAX -D_USE_MATH_DEFINES @CMakeFiles/Assignment6.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Assignment6.dir\\light.C.obj -c \"C:\\Users\\user020\\Desktop\\Code\\6.837\\Assignment 6\\light.C\"",
+  "file": "C:/Users/user020/Desktop/Code/6.837/Assignment 6/light.C",
+  "output": "CMakeFiles/Assignment6.dir/light.C.obj"
+},
+{
+  "directory": "C:/Users/user020/Desktop/Code/6.837/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DNOMINMAX -D_USE_MATH_DEFINES @CMakeFiles/Assignment6.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Assignment6.dir\\main.cpp.obj -c \"C:\\Users\\user020\\Desktop\\Code\\6.837\\Assignment 6\\main.cpp\"",
+  "file": "C:/Users/user020/Desktop/Code/6.837/Assignment 6/main.cpp",
+  "output": "CMakeFiles/Assignment6.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/user020/Desktop/Code/6.837/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DNOMINMAX -D_USE_MATH_DEFINES @CMakeFiles/Assignment6.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Assignment6.dir\\material.cpp.obj -c \"C:\\Users\\user020\\Desktop\\Code\\6.837\\Assignment 6\\material.cpp\"",
+  "file": "C:/Users/user020/Desktop/Code/6.837/Assignment 6/material.cpp",
+  "output": "CMakeFiles/Assignment6.dir/material.cpp.obj"
+},
+{
+  "directory": "C:/Users/user020/Desktop/Code/6.837/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DNOMINMAX -D_USE_MATH_DEFINES @CMakeFiles/Assignment6.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Assignment6.dir\\matrix.cpp.obj -c \"C:\\Users\\user020\\Desktop\\Code\\6.837\\Assignment 6\\matrix.cpp\"",
+  "file": "C:/Users/user020/Desktop/Code/6.837/Assignment 6/matrix.cpp",
+  "output": "CMakeFiles/Assignment6.dir/matrix.cpp.obj"
+},
+{
+  "directory": "C:/Users/user020/Desktop/Code/6.837/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DNOMINMAX -D_USE_MATH_DEFINES @CMakeFiles/Assignment6.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Assignment6.dir\\perlin_noise.C.obj -c \"C:\\Users\\user020\\Desktop\\Code\\6.837\\Assignment 6\\perlin_noise.C\"",
+  "file": "C:/Users/user020/Desktop/Code/6.837/Assignment 6/perlin_noise.C",
+  "output": "CMakeFiles/Assignment6.dir/perlin_noise.C.obj"
+},
+{
+  "directory": "C:/Users/user020/Desktop/Code/6.837/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DNOMINMAX -D_USE_MATH_DEFINES @CMakeFiles/Assignment6.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Assignment6.dir\\plane.cpp.obj -c \"C:\\Users\\user020\\Desktop\\Code\\6.837\\Assignment 6\\plane.cpp\"",
+  "file": "C:/Users/user020/Desktop/Code/6.837/Assignment 6/plane.cpp",
+  "output": "CMakeFiles/Assignment6.dir/plane.cpp.obj"
+},
+{
+  "directory": "C:/Users/user020/Desktop/Code/6.837/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DNOMINMAX -D_USE_MATH_DEFINES @CMakeFiles/Assignment6.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Assignment6.dir\\rayTree.C.obj -c \"C:\\Users\\user020\\Desktop\\Code\\6.837\\Assignment 6\\rayTree.C\"",
+  "file": "C:/Users/user020/Desktop/Code/6.837/Assignment 6/rayTree.C",
+  "output": "CMakeFiles/Assignment6.dir/rayTree.C.obj"
+},
+{
+  "directory": "C:/Users/user020/Desktop/Code/6.837/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DNOMINMAX -D_USE_MATH_DEFINES @CMakeFiles/Assignment6.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Assignment6.dir\\ray_tracer.C.obj -c \"C:\\Users\\user020\\Desktop\\Code\\6.837\\Assignment 6\\ray_tracer.C\"",
+  "file": "C:/Users/user020/Desktop/Code/6.837/Assignment 6/ray_tracer.C",
+  "output": "CMakeFiles/Assignment6.dir/ray_tracer.C.obj"
+},
+{
+  "directory": "C:/Users/user020/Desktop/Code/6.837/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DNOMINMAX -D_USE_MATH_DEFINES @CMakeFiles/Assignment6.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Assignment6.dir\\raytracing_stats.C.obj -c \"C:\\Users\\user020\\Desktop\\Code\\6.837\\Assignment 6\\raytracing_stats.C\"",
+  "file": "C:/Users/user020/Desktop/Code/6.837/Assignment 6/raytracing_stats.C",
+  "output": "CMakeFiles/Assignment6.dir/raytracing_stats.C.obj"
+},
+{
+  "directory": "C:/Users/user020/Desktop/Code/6.837/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DNOMINMAX -D_USE_MATH_DEFINES @CMakeFiles/Assignment6.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Assignment6.dir\\renderer.cpp.obj -c \"C:\\Users\\user020\\Desktop\\Code\\6.837\\Assignment 6\\renderer.cpp\"",
+  "file": "C:/Users/user020/Desktop/Code/6.837/Assignment 6/renderer.cpp",
+  "output": "CMakeFiles/Assignment6.dir/renderer.cpp.obj"
+},
+{
+  "directory": "C:/Users/user020/Desktop/Code/6.837/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DNOMINMAX -D_USE_MATH_DEFINES @CMakeFiles/Assignment6.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Assignment6.dir\\scene_parser.C.obj -c \"C:\\Users\\user020\\Desktop\\Code\\6.837\\Assignment 6\\scene_parser.C\"",
+  "file": "C:/Users/user020/Desktop/Code/6.837/Assignment 6/scene_parser.C",
+  "output": "CMakeFiles/Assignment6.dir/scene_parser.C.obj"
+},
+{
+  "directory": "C:/Users/user020/Desktop/Code/6.837/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DNOMINMAX -D_USE_MATH_DEFINES @CMakeFiles/Assignment6.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Assignment6.dir\\sphere.cpp.obj -c \"C:\\Users\\user020\\Desktop\\Code\\6.837\\Assignment 6\\sphere.cpp\"",
+  "file": "C:/Users/user020/Desktop/Code/6.837/Assignment 6/sphere.cpp",
+  "output": "CMakeFiles/Assignment6.dir/sphere.cpp.obj"
+},
+{
+  "directory": "C:/Users/user020/Desktop/Code/6.837/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DNOMINMAX -D_USE_MATH_DEFINES @CMakeFiles/Assignment6.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Assignment6.dir\\transform.cpp.obj -c \"C:\\Users\\user020\\Desktop\\Code\\6.837\\Assignment 6\\transform.cpp\"",
+  "file": "C:/Users/user020/Desktop/Code/6.837/Assignment 6/transform.cpp",
+  "output": "CMakeFiles/Assignment6.dir/transform.cpp.obj"
+},
+{
+  "directory": "C:/Users/user020/Desktop/Code/6.837/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DNOMINMAX -D_USE_MATH_DEFINES @CMakeFiles/Assignment6.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Assignment6.dir\\triangle.cpp.obj -c \"C:\\Users\\user020\\Desktop\\Code\\6.837\\Assignment 6\\triangle.cpp\"",
+  "file": "C:/Users/user020/Desktop/Code/6.837/Assignment 6/triangle.cpp",
+  "output": "CMakeFiles/Assignment6.dir/triangle.cpp.obj"
+}
+]

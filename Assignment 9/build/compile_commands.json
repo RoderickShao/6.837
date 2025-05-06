@@ -1,0 +1,56 @@
+[
+{
+  "directory": "C:/Users/user020/Desktop/Code/6.837/Assignment 9/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DNOMINMAX -D_USE_MATH_DEFINES @CMakeFiles/Assignment9.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Assignment9.dir\\forcefield.C.obj -c \"C:\\Users\\user020\\Desktop\\Code\\6.837\\Assignment 9\\forcefield.C\"",
+  "file": "C:/Users/user020/Desktop/Code/6.837/Assignment 9/forcefield.C",
+  "output": "CMakeFiles/Assignment9.dir/forcefield.C.obj"
+},
+{
+  "directory": "C:/Users/user020/Desktop/Code/6.837/Assignment 9/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DNOMINMAX -D_USE_MATH_DEFINES @CMakeFiles/Assignment9.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Assignment9.dir\\generator.C.obj -c \"C:\\Users\\user020\\Desktop\\Code\\6.837\\Assignment 9\\generator.C\"",
+  "file": "C:/Users/user020/Desktop/Code/6.837/Assignment 9/generator.C",
+  "output": "CMakeFiles/Assignment9.dir/generator.C.obj"
+},
+{
+  "directory": "C:/Users/user020/Desktop/Code/6.837/Assignment 9/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DNOMINMAX -D_USE_MATH_DEFINES @CMakeFiles/Assignment9.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Assignment9.dir\\glCanvas.C.obj -c \"C:\\Users\\user020\\Desktop\\Code\\6.837\\Assignment 9\\glCanvas.C\"",
+  "file": "C:/Users/user020/Desktop/Code/6.837/Assignment 9/glCanvas.C",
+  "output": "CMakeFiles/Assignment9.dir/glCanvas.C.obj"
+},
+{
+  "directory": "C:/Users/user020/Desktop/Code/6.837/Assignment 9/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DNOMINMAX -D_USE_MATH_DEFINES @CMakeFiles/Assignment9.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Assignment9.dir\\integrator.C.obj -c \"C:\\Users\\user020\\Desktop\\Code\\6.837\\Assignment 9\\integrator.C\"",
+  "file": "C:/Users/user020/Desktop/Code/6.837/Assignment 9/integrator.C",
+  "output": "CMakeFiles/Assignment9.dir/integrator.C.obj"
+},
+{
+  "directory": "C:/Users/user020/Desktop/Code/6.837/Assignment 9/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DNOMINMAX -D_USE_MATH_DEFINES @CMakeFiles/Assignment9.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Assignment9.dir\\main.C.obj -c \"C:\\Users\\user020\\Desktop\\Code\\6.837\\Assignment 9\\main.C\"",
+  "file": "C:/Users/user020/Desktop/Code/6.837/Assignment 9/main.C",
+  "output": "CMakeFiles/Assignment9.dir/main.C.obj"
+},
+{
+  "directory": "C:/Users/user020/Desktop/Code/6.837/Assignment 9/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DNOMINMAX -D_USE_MATH_DEFINES @CMakeFiles/Assignment9.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Assignment9.dir\\matrix.C.obj -c \"C:\\Users\\user020\\Desktop\\Code\\6.837\\Assignment 9\\matrix.C\"",
+  "file": "C:/Users/user020/Desktop/Code/6.837/Assignment 9/matrix.C",
+  "output": "CMakeFiles/Assignment9.dir/matrix.C.obj"
+},
+{
+  "directory": "C:/Users/user020/Desktop/Code/6.837/Assignment 9/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DNOMINMAX -D_USE_MATH_DEFINES @CMakeFiles/Assignment9.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Assignment9.dir\\parser.C.obj -c \"C:\\Users\\user020\\Desktop\\Code\\6.837\\Assignment 9\\parser.C\"",
+  "file": "C:/Users/user020/Desktop/Code/6.837/Assignment 9/parser.C",
+  "output": "CMakeFiles/Assignment9.dir/parser.C.obj"
+},
+{
+  "directory": "C:/Users/user020/Desktop/Code/6.837/Assignment 9/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DNOMINMAX -D_USE_MATH_DEFINES @CMakeFiles/Assignment9.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Assignment9.dir\\particle.C.obj -c \"C:\\Users\\user020\\Desktop\\Code\\6.837\\Assignment 9\\particle.C\"",
+  "file": "C:/Users/user020/Desktop/Code/6.837/Assignment 9/particle.C",
+  "output": "CMakeFiles/Assignment9.dir/particle.C.obj"
+},
+{
+  "directory": "C:/Users/user020/Desktop/Code/6.837/Assignment 9/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DNOMINMAX -D_USE_MATH_DEFINES @CMakeFiles/Assignment9.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Assignment9.dir\\system.C.obj -c \"C:\\Users\\user020\\Desktop\\Code\\6.837\\Assignment 9\\system.C\"",
+  "file": "C:/Users/user020/Desktop/Code/6.837/Assignment 9/system.C",
+  "output": "CMakeFiles/Assignment9.dir/system.C.obj"
+}
+]

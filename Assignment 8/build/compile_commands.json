@@ -1,0 +1,44 @@
+[
+{
+  "directory": "C:/Users/user020/Desktop/Code/6.837/Assignment 8/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DNOMINMAX -D_USE_MATH_DEFINES @CMakeFiles/Assignment8.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Assignment8.dir\\curve.C.obj -c \"C:\\Users\\user020\\Desktop\\Code\\6.837\\Assignment 8\\curve.C\"",
+  "file": "C:/Users/user020/Desktop/Code/6.837/Assignment 8/curve.C",
+  "output": "CMakeFiles/Assignment8.dir/curve.C.obj"
+},
+{
+  "directory": "C:/Users/user020/Desktop/Code/6.837/Assignment 8/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DNOMINMAX -D_USE_MATH_DEFINES @CMakeFiles/Assignment8.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Assignment8.dir\\glCanvas.C.obj -c \"C:\\Users\\user020\\Desktop\\Code\\6.837\\Assignment 8\\glCanvas.C\"",
+  "file": "C:/Users/user020/Desktop/Code/6.837/Assignment 8/glCanvas.C",
+  "output": "CMakeFiles/Assignment8.dir/glCanvas.C.obj"
+},
+{
+  "directory": "C:/Users/user020/Desktop/Code/6.837/Assignment 8/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DNOMINMAX -D_USE_MATH_DEFINES @CMakeFiles/Assignment8.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Assignment8.dir\\main.C.obj -c \"C:\\Users\\user020\\Desktop\\Code\\6.837\\Assignment 8\\main.C\"",
+  "file": "C:/Users/user020/Desktop/Code/6.837/Assignment 8/main.C",
+  "output": "CMakeFiles/Assignment8.dir/main.C.obj"
+},
+{
+  "directory": "C:/Users/user020/Desktop/Code/6.837/Assignment 8/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DNOMINMAX -D_USE_MATH_DEFINES @CMakeFiles/Assignment8.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Assignment8.dir\\matrix.C.obj -c \"C:\\Users\\user020\\Desktop\\Code\\6.837\\Assignment 8\\matrix.C\"",
+  "file": "C:/Users/user020/Desktop/Code/6.837/Assignment 8/matrix.C",
+  "output": "CMakeFiles/Assignment8.dir/matrix.C.obj"
+},
+{
+  "directory": "C:/Users/user020/Desktop/Code/6.837/Assignment 8/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DNOMINMAX -D_USE_MATH_DEFINES @CMakeFiles/Assignment8.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Assignment8.dir\\spline_parser.C.obj -c \"C:\\Users\\user020\\Desktop\\Code\\6.837\\Assignment 8\\spline_parser.C\"",
+  "file": "C:/Users/user020/Desktop/Code/6.837/Assignment 8/spline_parser.C",
+  "output": "CMakeFiles/Assignment8.dir/spline_parser.C.obj"
+},
+{
+  "directory": "C:/Users/user020/Desktop/Code/6.837/Assignment 8/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DNOMINMAX -D_USE_MATH_DEFINES @CMakeFiles/Assignment8.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Assignment8.dir\\surface.C.obj -c \"C:\\Users\\user020\\Desktop\\Code\\6.837\\Assignment 8\\surface.C\"",
+  "file": "C:/Users/user020/Desktop/Code/6.837/Assignment 8/surface.C",
+  "output": "CMakeFiles/Assignment8.dir/surface.C.obj"
+},
+{
+  "directory": "C:/Users/user020/Desktop/Code/6.837/Assignment 8/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DNOMINMAX -D_USE_MATH_DEFINES @CMakeFiles/Assignment8.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Assignment8.dir\\triangle_mesh.C.obj -c \"C:\\Users\\user020\\Desktop\\Code\\6.837\\Assignment 8\\triangle_mesh.C\"",
+  "file": "C:/Users/user020/Desktop/Code/6.837/Assignment 8/triangle_mesh.C",
+  "output": "CMakeFiles/Assignment8.dir/triangle_mesh.C.obj"
+}
+]

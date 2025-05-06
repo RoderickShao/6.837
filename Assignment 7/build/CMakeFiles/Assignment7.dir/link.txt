@@ -1,0 +1,3 @@
+D:\Cmake\bin\cmake.exe -E rm -f CMakeFiles\Assignment7.dir/objects.a
+D:\mingw64\bin\ar.exe qc CMakeFiles\Assignment7.dir/objects.a @CMakeFiles\Assignment7.dir\objects1.rsp
+D:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Assignment7.dir/objects.a -Wl,--no-whole-archive -o Assignment7.exe -Wl,--out-implib,libAssignment7.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Assignment7.dir\linkLibs.rsp

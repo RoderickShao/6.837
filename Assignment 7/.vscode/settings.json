@@ -1,0 +1,37 @@
+{
+    "files.associations": {
+        "boundingbox.C": "cpp",
+        "new": "cpp",
+        "film.C": "cpp",
+        "ray_tracer.C": "cpp",
+        "scene_parser.C": "cpp",
+        "sampler.C": "cpp",
+        "glCanvas.C": "cpp",
+        "filter.C": "cpp"
+    },
+    "cmake.debugConfig": {
+        "args": [
+            "-input", "C:/Users/user020/Desktop/Code/6.837/Assignment 7/data/scene7_02_checkerboard.txt",
+            "-size", "180", "180",
+            "-output", "output7_02a.tga",
+            //"-render_filter", "filter7_01h.tga", "20",
+            //"-render_samples", "samples7_01a_low_res.tga", "15",
+            "-random_samples", "16",
+            //"-uniform_samples", "9"，
+            //"-jittered_samples", "4",
+            "-box_filter", "0.5",
+            //"-tent_filter", "1.5",
+            //"-gaussian_filter", "0.6", 
+            //"-gui",
+            //"-grid", "20", "20", "20",
+            //"-visualize_grid",
+            //"-stats",
+            //"-tessellation", "50","25",
+            //"-gouraud",
+            //"-shadows",
+            //"-bounces", "5",
+            //"-weight", "0.01",
+            //"-shade_back",
+        ]
+    },
+}
